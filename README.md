@@ -1,4 +1,4 @@
-# Optasia Feature Engineering API 
+# Feature Engineering API project
 
 ### Instructions on how to setup, build and execute all modules.
 
